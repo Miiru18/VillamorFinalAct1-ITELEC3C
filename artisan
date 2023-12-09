@@ -38,6 +38,9 @@ $status = $kernel->handle(
     new Symfony\Component\Console\Output\ConsoleOutput
 );
 
+
+//asdasdasdasdasd
+
 /*
 |--------------------------------------------------------------------------
 | Shutdown The Application
